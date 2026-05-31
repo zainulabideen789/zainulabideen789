@@ -1,58 +1,59 @@
-<div align="center">
+<h1 align="center">Hi, I'm Zain Ul Abideen</h1>
 
-# Zain Ul Abideen
+<h3 align="center">Creative Web Designer | Frontend Learner | BS IT Student</h3>
 
-**Creative Web Designer and BS IT Student**
-
-I am learning frontend development by building clean, responsive, and practical web projects.
-
-[GitHub](https://github.com/zainulabideen789) | [Email](mailto:zainalizain0070@gmail.com)
-
-</div>
+<p align="center">
+  I enjoy building clean, responsive, and user-friendly websites with HTML, CSS, and JavaScript.
+  I am currently improving my frontend skills while exploring software development, cybersecurity, and data science.
+</p>
 
 ---
 
-## Profile
+## About Me
 
-I am a BS Information Technology student from Pakistan with an interest in web design, frontend development, cybersecurity, and data science. My current focus is improving my HTML, CSS, JavaScript, and project documentation through real practice.
-
-I like simple interfaces, readable code, and websites that work well on different screen sizes.
+- Studying BS Information Technology in Pakistan
+- Learning modern frontend development step by step
+- Interested in web design, cybersecurity, software development, and data science
+- Focused on building practical projects and improving code quality
 
 ## Skills
 
-| Area | Tools and Topics |
-| --- | --- |
-| Frontend | HTML, CSS, JavaScript |
-| Programming | Python basics |
-| Tools | Git, GitHub, VS Code |
-| Learning | Responsive design, UI design, DOM manipulation, accessibility basics |
+**Frontend:** HTML, CSS, JavaScript  
+**Programming:** Python basics  
+**Tools:** Git, GitHub, VS Code  
+**Interests:** Responsive design, UI design, cybersecurity basics
 
-## Featured Work
+## Featured Project
 
-### [Personal Intro Page](https://github.com/zainulabideen789/intro-page)
+### Personal Intro Page
 
-A personal portfolio webpage built with HTML and CSS. It introduces my education, skills, interests, and contact details.
+A basic personal portfolio webpage built with HTML and CSS. It introduces my education, skills, interests, and contact details.
 
-**What I practiced:** page structure, basic styling, content organization, and GitHub publishing.
+- Repository: [intro-page](https://github.com/zainulabideen789/intro-page)
+- Tech: HTML, CSS
+- Goal: Practice webpage structure, styling, and personal portfolio presentation
 
-**Next improvement:** rebuild it with responsive CSS, cleaner layout, separate stylesheet, and a stronger README.
+## Currently Learning
 
-## Learning Roadmap
+- Responsive layouts with CSS Flexbox and Grid
+- JavaScript DOM manipulation
+- Clean HTML structure and accessibility basics
+- GitHub project documentation
 
-- Build responsive layouts with Flexbox and CSS Grid
-- Practice JavaScript by creating small interactive projects
-- Improve HTML structure and accessibility
-- Write better project README files with screenshots and live demo links
-- Create a polished personal portfolio website
+## Next Goals
 
-## Current Goal
+- Redesign my portfolio with responsive CSS
+- Build small JavaScript projects
+- Add more polished frontend projects to GitHub
+- Create better README files with screenshots and live demo links
 
-My goal is to grow from beginner projects into clean, professional frontend work that shows both design sense and coding skill.
+## Connect
+
+- GitHub: [zainulabideen789](https://github.com/zainulabideen789)
+- Email: zainalizain0070@gmail.com
 
 ---
 
-<div align="center">
-
-**Learning. Building. Improving.**
-
-</div>
+<p align="center">
+  Thanks for visiting my profile.
+</p>
